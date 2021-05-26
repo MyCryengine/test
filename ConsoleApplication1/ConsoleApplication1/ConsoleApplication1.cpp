@@ -141,6 +141,8 @@ int main()
 
 	solution5(arr);
 
+	// �귱ġ
+
 	return 0;    
 
 
