@@ -141,8 +141,6 @@ int main()
 
 	solution5(arr);
 
-	return 0;
-    //std::cout << "Hello World!\n"; 
-}
+	return 0;    
 
 
